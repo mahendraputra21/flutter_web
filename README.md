@@ -1,6 +1,8 @@
 # flutter_web
 
-A new Flutter project.
+A new Flutter web project.
+
+-[URL](https://zen-heyrovsky-3e9d55.netlify.app/#/)
 
 ## Getting Started
 
